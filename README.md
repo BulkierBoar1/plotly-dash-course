@@ -1,1 +1,1 @@
-"# example-dash-course" 
+"# plotly-dash-course" 
